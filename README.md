@@ -1,5 +1,5 @@
 # Portfolio
-# Сертификаты с курсов, Kaggle  и другие вещи
+# Certificates, projects and other things
 
 1. Certificates:
     * [Kaggle](https://github.com/Shubin-vadim/Portfolio/tree/master/Kaggle)
@@ -10,4 +10,4 @@
 2. Projects
    * [Voice assistant implementation](https://github.com/Shubin-vadim/hackaton_VA)
 3. Baselines
-   * [Implementation of basic computer vision modules using mediapipe](https://github.com/Shubin-vadim/Baseline_implementations.git)
+   * [Implementation of basic computer vision modules using mediapipe](https://github.com/Shubin-vadim/Baseline_implementations/tree/master/CV/OpenCV/Mediapipe)
